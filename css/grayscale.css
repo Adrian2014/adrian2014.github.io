@@ -266,7 +266,7 @@ a:focus {
 
 .project-section {
     width: 100%;
-    height: auto;
+    height: 100%;
     padding: 50px 0;
     color: #fff;
     background: url("https://raw.githubusercontent.com/Adrian2014/adrian2014.github.io/master/img/DSCN0553.JPG") no-repeat center center scroll;
